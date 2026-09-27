@@ -9,6 +9,6 @@ A lightweight utility script designed to clean, monitor, and optimize Linux syst
 
 ## 🚀 Getting Started
 ```bash
-git clone [https://github.com/leo9841/sys-toolbox.git](https://github.com/leo9841/sys-toolbox.git)
+git clone [https://github.com/leo9841/sys-toolbox.git](https://github.com/b1t-n3rd/sys-toolbox.git)
 cd sys-toolbox
 chmod +x tidy.py
